@@ -1,4 +1,6 @@
-# game
+# guess the number game.
+
+
 import random
 attempts = []
 def show_score():
